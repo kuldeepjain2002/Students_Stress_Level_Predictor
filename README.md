@@ -20,3 +20,7 @@ streamlit run app.py
 If the above command does not run :
 python -m streamlit run app.py
 
+![image](https://github.com/kuldeepjain2002/Students_Stress_Level_Predictor/assets/82469011/fbb26a65-dbe6-4695-a683-bced91289ffe)
+
+![image](https://github.com/kuldeepjain2002/Students_Stress_Level_Predictor/assets/82469011/4d0790d9-3df1-46eb-988f-f6a2349b3346)
+
